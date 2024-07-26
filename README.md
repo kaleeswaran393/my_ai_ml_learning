@@ -63,4 +63,5 @@ Steps
     6.Parameter training - Optional 
     7.Model Prediction 
     
-    
+import cv2
+
