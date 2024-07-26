@@ -67,3 +67,7 @@ Steps
     
 import cv2
 
+Day 6 - pyautogui
+=======================================
+pip install pyautogui
+import os - directory related file read and write
