@@ -1,5 +1,7 @@
 # my_ai_ml_learning
 
+https://learn.novitechrd.com/login
+
 Day 1
 ===============================
 AI & DS 
