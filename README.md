@@ -57,7 +57,7 @@ library
 Steps
     1.Gathering Data
     2.Data Processing
-    3.Choosing a model / Concept
+    3.Choosing a model / Concept  ( choose algo and DS ) 
     4.Model training
     5.Model evaluation
     6.Parameter training - Optional 
