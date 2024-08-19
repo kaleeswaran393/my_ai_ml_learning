@@ -14,6 +14,9 @@ Data & Concept
    --> Humen Can see & Recognize --> image/video--> Computer Vision and Deep Learning
 
 Data Science DS --> Data Analytics, ML and DL 
+DE - Data Engineer - DB, big data, ETL, Data pipeline
+DS - AI/ML/DP
+DA - Analyse historical data
 
 Roles:
   ML Engineer
@@ -34,6 +37,23 @@ Application
    Steganography and Cryptography
    satellite image analysis
    mobil camera
+
+ML Basics
+===================
+DeepLearning using Numpy
+Why TensorFlow/Theano not Numpy?
+Why Keras not TensorFlow/Theano?
+
+DL Libraries - Theano, Tensorflow, Torch, Keras, Caffe, CNTK, Lasagne . Expert prefer Keas bz it wrapper over tensor and theano
+
+Convolution Neural Networks, Recurrent Neural Networks, Reinforcement Learning, Feed Forward Neural Network etc
+Machine Learning deals with lot of Linear Algebra operations like dot product, transpose, reshape etc.
+
+sigmoid, Tanh, RELU etc
+
+https://www.youtube.com/watch?v=TsEGsdVJjuA
+https://code.google.com/archive/p/word2vec/
+https://www.youtube.com/watch?v=wTp3P2UnTfQ
 
 Day 2:   Computer Vision - CV
 ====================================
@@ -71,3 +91,18 @@ Day 6 - pyautogui
 =======================================
 pip install pyautogui
 import os - directory related file read and write
+
+
+Authar Chan
+========================================
+Speech Recognition-Related: Architecture of Speech Recognition Systems (Decoder+Trainer), Very Fast Speech Recognition, Keyword Spotting, Speech-based Topic/Language/Emotion/Gender Classification, Robust Speech Recognition. 
+
+General Machine Learning-Related: Application Of Machine Learning Algorithms (Regression, SVM, GMM), Sentiment classification, Information retrieval. 
+
+Deep Learning-Related (i.e. DNN, CNN, RNN and variants):
+ Speech recognition: Deep learning in acoustic and language modeling. 
+ Administration: knowledgeable in setup and install multiple deep learning tools.
+
+Toolkit Expertise (ASR): Sphinx (2,3,4 and pocketsphinx), Kaldi, HTK, Julius, Speechworks (<OSR 2.0), Byblos, CMULM, SRILM, MITLM.
+
+Toolkit Expertise (ML): Tensorflow, (Keras), scikit-learn, libsvm, Pytorch
