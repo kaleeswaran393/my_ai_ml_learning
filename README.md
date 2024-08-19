@@ -54,6 +54,9 @@ sigmoid, Tanh, RELU etc
 https://www.youtube.com/watch?v=TsEGsdVJjuA
 https://code.google.com/archive/p/word2vec/
 https://www.youtube.com/watch?v=wTp3P2UnTfQ
+https://proceedings.neurips.cc/paper_files/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf
+https://medium.com/@gokul_uf/the-anatomy-of-deep-learning-frameworks-46e2a7af5e47#.qp4zrn6s6
+https://www.youtube.com/watch?v=h3l4qz76JhQ
 
 Day 2:   Computer Vision - CV
 ====================================
